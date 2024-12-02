@@ -21,6 +21,12 @@ pkg install tur-repo
 pkg install chromium
 pkg install termux-x11
 ```
+
+#switch to x11 repo
+```
+termux-change-repo
+```
+
 #download script
 ```
 cd ~
