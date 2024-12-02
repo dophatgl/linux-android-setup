@@ -1,8 +1,13 @@
 # linux-android-setup
 
-#install termux & termux-x11 apk
+#install termux apk 
+```
 https://github.com/termux/termux-app
+```
+#termux-x11 apk
+```
 https://github.com/termux/termux-x11
+```
 
 #open termux app and run command
 ```
