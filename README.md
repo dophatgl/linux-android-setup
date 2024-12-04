@@ -11,15 +11,15 @@ https://github.com/termux/termux-x11
 
 #open termux app and run command
 ```
-pkg update
-pkg install wget
-pkg install x11-repo
-pkg install termux-x11-nightly
-pkg install pulseaudio
-pkg install xfce4
-pkg install tur-repo
-pkg install chromium
-pkg install termux-x11
+pkg update -y
+pkg install wget -y
+pkg install x11-repo -y
+pkg install termux-x11-nightly -y
+pkg install pulseaudio -y
+pkg install xfce4 -y
+pkg install tur-repo -y
+pkg install chromium -y
+pkg install termux-x11 -y
 ```
 
 #switch to x11 repo
