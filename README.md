@@ -22,7 +22,7 @@ pkg install chromium -y
 pkg install termux-x11 -y
 ```
 
-#switch to x11 repo
+#switch to x11 repo (choose single + VN repo)
 ```
 termux-change-repo
 ```
