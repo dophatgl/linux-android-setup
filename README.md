@@ -20,6 +20,7 @@ pkg install xfce4 -y
 pkg install tur-repo -y
 pkg install chromium -y
 pkg install termux-x11 -y
+pkg upgrade -y
 ```
 
 #switch to x11 repo (choose single + VN repo)
