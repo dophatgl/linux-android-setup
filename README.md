@@ -30,6 +30,8 @@ termux-change-repo
 #download script
 ```
 cd ~
+```
+```
 wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/termux_native/startxfce4_termux.sh
 ```
 
